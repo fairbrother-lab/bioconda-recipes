@@ -11,6 +11,8 @@ source:
 build:
   number: 0
   noarch: generic
+  additional-platforms:
+    - osx-arm64
   run_exports:
     - {{ pin_subpackage('lariatmapper', max_pin="x.x") }}
 
