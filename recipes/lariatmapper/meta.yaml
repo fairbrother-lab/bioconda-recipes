@@ -51,8 +51,3 @@ about:
   license: MIT License
   summary: 'LariatMapper: A pipeline for extracting lariats and their branchpoints from RNA-sequencing data.'
   doc_url: https://github.com/fairbrother-lab/LariatMapper
-
-extra:
-  identifiers:
-    - biotools:pyfaidx
-    - doi:10.7287/peerj.preprints.970v1
